@@ -162,7 +162,7 @@ If you encounter any issues or have suggestions, please [open an issue](../../is
 
 If you find this project helpful, consider buying me a coffee!
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-☕-orange.svg?style=flat-square)](coff.ee/refentseg)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-☕-orange.svg?style=flat-square)](https://coff.ee/refentseg)
 
 ---
 
