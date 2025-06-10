@@ -2,8 +2,7 @@
 
 A customizable Python-based soundboard application with an intuitive GUI for playing audio files. Create multiple soundboards, organize your sounds, and switch between different audio collections with ease!
 
-![Soundboard Preview](![image](https://github.com/user-attachments/assets/3df1bee1-4c02-49c8-a821-4b663f29a0db)
-)
+![Soundboard Preview](https://github.com/user-attachments/assets/3df1bee1-4c02-49c8-a821-4b663f29a0db)
 
 ## 📑 Table of Contents
 - [✨ Features](#-features)
