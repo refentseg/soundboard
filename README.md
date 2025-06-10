@@ -37,7 +37,6 @@ A customizable Python-based soundboard application with an intuitive GUI for pla
 3. **Add Sounds**: Click on empty sound buttons to add audio files
 4. **Switch Soundboards**: Use the dropdown menu to switch between different soundboard collections
 5. **Play Sounds**: Click any sound button to play the associated audio file
-6. 
 ## 🛠️ Installation
 
 Choose one of the following installation methods:
