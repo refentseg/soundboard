@@ -1,0 +1,24 @@
+{
+  "theme": "light",
+  "window": {
+    "width": 500,
+    "height": 350,
+    "resizable": false
+  },
+  "audio": {
+    "supported_formats": [
+      "*.mp3",
+      "*.wav",
+      "*.ogg"
+    ],
+    "default_volume": 0.7
+  },
+  "ui": {
+    "button_grid": {
+      "rows": 2,
+      "columns": 3
+    },
+    "button_size": 70,
+    "max_label_length": 10
+  }
+}
