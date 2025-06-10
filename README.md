@@ -2,7 +2,8 @@
 
 A customizable Python-based soundboard application with an intuitive GUI for playing audio files. Create multiple soundboards, organize your sounds, and switch between different audio collections with ease!
 
-![Soundboard Preview]()
+![Soundboard Preview](![image](https://github.com/user-attachments/assets/3df1bee1-4c02-49c8-a821-4b663f29a0db)
+)
 
 ## 📑 Table of Contents
 - [✨ Features](#-features)
@@ -36,7 +37,7 @@ A customizable Python-based soundboard application with an intuitive GUI for pla
 3. **Add Sounds**: Click on empty sound buttons to add audio files
 4. **Switch Soundboards**: Use the dropdown menu to switch between different soundboard collections
 5. **Play Sounds**: Click any sound button to play the associated audio file
-
+6. 
 ## 🛠️ Installation
 
 Choose one of the following installation methods:
@@ -56,8 +57,8 @@ Choose one of the following installation methods:
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
-   cd SOUNDBOARD_APP
+   git clone https://github.com/refentseg/soundboard
+   cd soundboard
    ```
 
 2. **Create and activate virtual environment:**
